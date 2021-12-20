@@ -3,6 +3,8 @@ Full Stack Web Developer with a background in tech support and a passion for lea
 
 - 🔭 I’m currently working on an open-source All-In-One application to wirelessly mod firesticks (or any other android device) without rooting
 
+- ⚡ I am currently learning about Linux Servers, TypeScript, and Electron.js 
+
 - 🔥 Fun fact: I founded an Entertainment company that specializes in fire dancing and fire performances, which I ran for 6 years
 
 - 🎸 Fun fact: I love music and I enjoy playing the guitar
