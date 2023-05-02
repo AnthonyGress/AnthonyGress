@@ -9,4 +9,4 @@ Full Stack Software Developer with a background in tech support and a passion fo
 
 - 🎸 Fun fact: I love music and I enjoy playing the guitar
 
-- 📫 How to reach me: the.techx.guy@gmail.com
+- 📫 How to reach me: techx@opayq.com
