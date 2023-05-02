@@ -5,7 +5,7 @@ Full Stack Software Developer with a background in tech support and a passion fo
 
 - ⚡ I am currently learning about Linux Servers, TypeScript, and Electron.js 
 
-- 🔥 Fun fact: I founded an Entertainment company that specializes in fire dancing and fire performances, which I ran for 6 years
+- 🔥 Fun fact: I founded an Entertainment company that specializes in fire dancing and fire performances which has been successfully running for 8 years
 
 - 🎸 Fun fact: I love music and I enjoy playing the guitar
 
