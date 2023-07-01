@@ -2,7 +2,7 @@
 
 <img height=220 align="center" src="https://github-stats-38yy.vercel.app/api?username=anthonygress&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&include_all_commits=true&hide_border=true" />
      
-<img height=220 align="center" style="margin-left: 5px" src="https://github-stats-38yy.vercel.app/api/top-langs/?username=anthonygress&size_weight=0.5&count_weight=0.5&langs_count=9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&layout=compact&card_width=320&hide_border=true" />
+<img height=220 align="center" src="https://github-stats-38yy.vercel.app/api/top-langs/?username=anthonygress&size_weight=0.5&count_weight=0.5&langs_count=9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&layout=compact&card_width=320&hide_border=true" />
 
 </div>
 
