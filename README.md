@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5kFVNbChDLjRlyDAkS/giphy.gif" width="250"/>
+<img src=logo.png alt='logo' width="200px"/>
+
+<h1>Hi, I'm Anthony<h1>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/anthony-gress/">
