@@ -1,4 +1,33 @@
-Full Stack Software Engineer with a passion for creating, building and learning new things. Effective at developing creative solutions to complex problems. Focuses on clean and easy to ready code with a keen eye for detail. Develops streamlined and efficient solutions, automating crucial processes wherever possible. Known among colleagues to learn quickly and provide effective solutions no matter how complex the problem.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5kFVNbChDLjRlyDAkS/giphy.gif" width="250"/>
+  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anthony-gress/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://anthonygress.dev">
+    <img src="https://img.shields.io/badge/website-rgb(104, 58, 254)?style=for-the-badge&logo=accenture&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=anthonygress&style=flat-square&color=blue" alt=""/>
+
+</div>
+
+
+
+---
+
+### :technologist: About Me :
+
+- 🔭 I’m currently working on a React Native application for iOS, Android and Web!
+
+- ⚡ I am currently learning about Linux Servers, TypeScript, and Electron.js 
+
+- 🔥 Fun fact: I founded an Entertainment company that specializes in fire dancing and fire performances which has been successfully running for 8 years
+
+- 🎸 Fun fact: I love music and I enjoy playing the guitar
+
 
 ---
 
@@ -30,10 +59,22 @@ Full Stack Software Engineer with a passion for creating, building and learning 
 
 ---
 
-- 🔭 I’m currently working on a React Native application for iOS, Android and Web!
+<br>
 
-- ⚡ I am currently learning about Linux Servers, TypeScript, and Electron.js 
+<div style="display: flex; justify-content: center;">
+<img height=200 align="center" src="https://github-stats-38yy.vercel.app/api?username=anthonygress&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&include_all_commits=true&hide_border=true" />
+     
+<img height=200 align="center" src="https://github-stats-38yy.vercel.app/api/top-langs/?username=anthonygress&size_weight=0.5&count_weight=0.5&langs_count=9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&layout=compact&card_width=320&hide_border=true&hide=handlebars,scss,ejs,glsl" style="margin-left: 10px"/> 
 
-- 🔥 Fun fact: I founded an Entertainment company that specializes in fire dancing and fire performances which has been successfully running for 8 years
 
-- 🎸 Fun fact: I love music and I enjoy playing the guitar
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 10px">
+
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anthonygress&theme=dark&background=30%2CE96443%2C904E95&stroke=EBEBEB&dates=EBE6E6&hide_border=true"/> 
+
+</div>
+
+<br>
+
+---
