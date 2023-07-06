@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=anthonygress&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=anthonygress&style=flat-square&color=blue" alt="profile view counter"/>
 
 </div>
 
@@ -62,16 +62,18 @@
 <br>
 
 <div style="display: flex; justify-content: center;">
-<img height=200 align="center" src="https://github-stats-38yy.vercel.app/api?username=anthonygress&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&include_all_commits=true&hide_border=true" />
+<img height=200 align="center" src="https://raw.githubusercontent.com/AnthonyGress/hosted/main/gh-stats.svg" alt="github stats"/>
      
-<img height=200 align="center" src="https://github-stats-38yy.vercel.app/api/top-langs/?username=anthonygress&size_weight=0.5&count_weight=0.5&langs_count=9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&layout=compact&card_width=320&hide_border=true&hide=handlebars,scss,ejs,glsl" style="margin-left: 10px"/> 
+<img height=200 align="center" src="https://raw.githubusercontent.com/AnthonyGress/hosted/main/langs.svg" style="margin-left: 10px" alt="most used languages"/> 
 
 
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px">
+<br>
 
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anthonygress&theme=dark&background=30%2CE96443%2C904E95&stroke=EBEBEB&dates=EBE6E6&hide_border=true"/> 
+<div style="display: flex; justify-content: center;">
+
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anthonygress&theme=dark&background=30%2CE96443%2C904E95&stroke=EBEBEB&dates=EBE6E6&hide_border=true" alt="streak stats"/> 
 
 </div>
 
