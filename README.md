@@ -66,7 +66,7 @@
 <div style="display: flex; justify-content: center;">
 <img height=200 align="center" src="https://raw.githubusercontent.com/AnthonyGress/hosted/main/gh-stats.svg" alt="github stats"/>
      
-<img height=200 align="center" src="https://raw.githubusercontent.com/AnthonyGress/hosted/main/langs.svg" style="margin-left: 10px" alt="most used languages"/> 
+<img height=200 align="center" src="toplangs.svg" style="margin-left: 10px" alt="most used languages"/> 
 
 
 </div>
