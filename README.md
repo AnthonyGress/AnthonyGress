@@ -17,9 +17,6 @@
 </div>
 
 
-
----
-
 ### :technologist: About Me :
 
 - 🔭 I’m currently working on a React Native application for iOS, Android and Web!
