@@ -43,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Electron" alt="Electron" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Debian" alt="Debian" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redhat/redhat-plain-wordmark.svg" title="Debian" alt="Debian" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
