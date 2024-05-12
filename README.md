@@ -61,11 +61,10 @@
 
 <br>
 
-<div style="display: flex; justify-content: center;">
-<img height=200 align="center" src="stats.svg" alt="github stats"/>
-     
-<img height=200 align="center" src="toplangs.svg" style="margin-left: 10px" alt="most used languages"/> 
+<div style="display: flex; justify-content: center; aign-items: center;">
+<img height=200 src="stats.svg" alt="github stats"/>
 
+<img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=anthonygress&theme=dark&background=30%2CE96443%2C904E95&stroke=EBEBEB&dates=EBE6E6&hide_border=true" alt="streak stats"/> 
 
 </div>
 
@@ -73,7 +72,6 @@
 
 <div align="center">
 
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anthonygress&theme=dark&background=30%2CE96443%2C904E95&stroke=EBEBEB&dates=EBE6E6&hide_border=true" alt="streak stats"/> 
 
 </div>
 
