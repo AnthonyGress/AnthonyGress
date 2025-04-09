@@ -65,7 +65,7 @@
 <div style="display: flex; justify-content: center; aign-items: center;">
 <img height=200 src="stats.svg" alt="github stats"/>
 
-<img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=anthonygress&theme=dark&background=30%2CE96443%2C904E95&stroke=EBEBEB&dates=EBE6E6&hide_border=true" alt="streak stats"/> 
+<img height=200 src="https://github-readme-streak-stats-eight.vercel.app/?user=anthonygress&theme=dark&background=30%2CE96443%2C904E95&stroke=EBEBEB&dates=EBE6E6&hide_border=true" alt="streak stats"/> 
 
 </div>
 

@@ -1,6 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId">
-        <title id="titleId">Anthony Gress' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 35, Total Commits  : 35, Total PRs: 167, Total Issues: 101, Contributed to (last year): 16</desc>
+
+      <svg
+        width="467"
+        height="195"
+        viewBox="0 0 467 195"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId">Anthony Gress' GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 138, Total Commits  : 138, Total PRs: 118, Total Issues: 874, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -64,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.04442237000875;
+        stroke-dashoffset: 47.66188484765347;
       }
     }
   
@@ -94,31 +103,57 @@
 
         
         <defs>
-          <linearGradient id="gradient" gradientTransform="rotate(30)" gradientUnits="userSpaceOnUse">
-            <stop offset="0%" stop-color="#e96443"/>,<stop offset="100%" stop-color="#904e95"/>
+          <linearGradient
+            id="gradient"
+            gradientTransform="rotate(30)"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop offset="0%" stop-color="#e96443" />,<stop offset="100%" stop-color="#904e95" />
           </linearGradient>
         </defs>
         
 
-        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="url(#gradient)" stroke-opacity="0"/>
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="466"
+          fill="url(#gradient)"
+          stroke-opacity="0"
+        />
 
         
-      <g data-testid="card-title" transform="translate(25, 35)">
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
         <g transform="translate(0, 0)">
-      <text x="0" y="0" class="header" data-testid="header">Anthony Gress' GitHub Stats</text>
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Anthony Gress' GitHub Stats</text>
     </g>
       </g>
     
 
-        <g data-testid="main-card-body" transform="translate(0, 55)">
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
           
-    <g data-testid="rank-circle" transform="translate(390.5, 47.5)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
-        <circle class="rank-circle" cx="-10" cy="8" r="40"/>
+    <g data-testid="rank-circle"
+          transform="translate(390.5, 47.5)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
+        <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          A
         </text>
       
         </g>
@@ -132,7 +167,12 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="stars">58</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="stars"
+      >138</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -142,7 +182,12 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="commits">3.8k</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="commits"
+      >4.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -152,7 +197,12 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="prs">167</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="prs"
+      >118</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -162,7 +212,12 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="issues">204</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="issues"
+      >874</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -172,17 +227,16 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
-      <text class="stat  bold" x="219.01" y="12.5" data-testid="contribs">16</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="contribs"
+      >8</text>
     </g>
   </g>
     </svg>
   
         </g>
-      <style xmlns="" class="darkreader darkreader--fallback">html, body, body :not(iframe) {
-    background-color: #181a1b !important;
-    border-color: #776e62 !important;
-    color: #e8e6e3 !important;
-}
-div[style*="background-color: rgb(135, 135, 135)"] {
-    background-color: #878787 !important;
-}</style></svg>
+      </svg>
+    
