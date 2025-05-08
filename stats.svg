@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Anthony Gress' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 138, Total Commits  : 138, Total PRs: 118, Total Issues: 874, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 245, Total Commits  : 245, Total PRs: 132, Total Issues: 898, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 47.66188484765347;
+        stroke-dashoffset: 35.734655990340755;
       }
     }
   
@@ -172,7 +172,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >138</text>
+      >245</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >4.1k</text>
+      >4.4k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -202,7 +202,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >118</text>
+      >132</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -217,7 +217,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >874</text>
+      >898</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
