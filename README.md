@@ -19,9 +19,7 @@
 
 ### :technologist: About Me :
 
-- 🔭 I’m currently working on a React Native application for iOS, Android and Web!
-
-- ⚡ I am currently learning about CICD Pipelines, React Native, and Terraform
+- 🔭 I’m currently working on modding Kindles and other e-readers!
 
 - 🎸 I love music and I enjoy playing the guitar
 
